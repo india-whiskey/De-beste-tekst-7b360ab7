@@ -10,3 +10,6 @@ ol {
 body {
 	background-color: black;
 }
+img	{
+	max-width: 300px
+}
